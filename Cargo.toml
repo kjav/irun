@@ -1,0 +1,19 @@
+[package]
+name = "irun"
+version = "0.1.0"
+authors = ["Sam Lee <sam.lee@metaswitch.com>"]
+
+[dependencies]
+image = "0.14.0"
+rusttype = "0.2.0"
+gl = "0.6.0"
+piston-shaders_graphics2d = "0.3.1"
+piston-texture = "0.5.0"
+piston2d-graphics = "0.21.0"
+piston2d-opengl_graphics = "0.45.0"
+shader_version = "0.2.0"
+fnv = "1.0.2"
+piston = "0.32.0"
+pistoncore-sdl2_window = "0.43.0"
+rand = "0.3.15"
+khronos_api = "0.0.8"
